@@ -14,7 +14,7 @@
 
 
 
-[![H4SH Repo Beats](https://repobeats.axiom.co/api/embed/cd71806ef917c387efc4aa6d9f6ff9a7ae92f497.svg "Contributions Are Welcome")
+![H4SH Repo Beats](https://repobeats.axiom.co/api/embed/cd71806ef917c387efc4aa6d9f6ff9a7ae92f497.svg "Contributions Are Welcome")
 
 <!-- LINKS -->
 
